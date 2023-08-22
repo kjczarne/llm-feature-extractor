@@ -6,14 +6,17 @@ text snippets. The text snippets will then be used by the
 LLM Feature Extractor to reconstruct the table.
 """
 
-from typing import List, Any
+from typing import List, Any, Callable
 from dataclasses import dataclass
+from pprint import pprint
 
 from numpy.typing import NDArray
 
 import numpy as np
 import pandas as pd
 import argparse
+
+FloatArrayLike = List[float] | NDArray[np.float32]
 
 
 def _literal_to_type(literal: str):
@@ -34,14 +37,18 @@ class RandomDataGenerator:
     def _rand_select(self,
                      size: int,
                      values: List[Any],
-                     distribution: List[float] | NDArray[np.float32]):
+                     distribution: FloatArrayLike):
         return np.random.choice(values, size=size, p=distribution)
+
+    def _rand_int(self, generator_func: Callable[..., Any], *args, **kwargs):
+        return generator_func(*args, **kwargs)
 
 
 @dataclass
 class Config:
     feature_names: List[str]
     feature_types: List[str]
+    distributions: List[str]
     target_name: str
     num_of_sentences: int
     seed: int = 42
@@ -73,6 +80,8 @@ def main():
                              "industry",
                              "incorporation_year",
                              "customer_base_growth_from_last_year"]
+    default_feature_types = ["bool", "int", "float", "float", "float", "str", "int", "float"]
+    default_feature_distributions = ["uniform", "normal", "poisson", "poisson", "normal", "uniform", "uniform", "poisson"]
     default_target_name = "revenue_2023"
     default_num_of_sentences = 3
 
@@ -88,7 +97,12 @@ def main():
                         nargs="+",
                         type=str,
                         help="Types of features in the data frame, must be Python primitives",
-                        default=default_feature_names)
+                        default=default_feature_types)
+    parser.add_argument("-d", "--feature-distributions",
+                        nargs="+",
+                        type=str,
+                        help="Distribution names, they should map to numpy.random functions",
+                        default=default_feature_distributions)
     parser.add_argument("-t", "--target-name",
                         type=str,
                         help="Dependent variable name",
@@ -102,9 +116,10 @@ def main():
 
     config = Config(args.feature_names,
                     args.feature_types,
+                    args.feature_distributions,
                     args.target_name,
                     args.num_of_sentences)
-    print(config)
+    pprint(config, indent=4)
 
 
 if __name__ == "__main__":
