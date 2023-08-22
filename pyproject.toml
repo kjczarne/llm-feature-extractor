@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "llm-feature-extractor"
+version = "0.1.0"
+description = "Using Large Language Models as feature extractors for tabular data from free-form text"
+authors = ["Chris Czarnecki <cczarnec@uwaterloo.ca>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "llm_feature_extractor"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.3"
+
+[tool.poetry.group.dev.dependencies]
+pylint = "^2.17.5"
+pytest = "^7.4.0"
+poethepoet = "^0.22.0"
+
+[tool.poe.tasks]
+install-torch = "pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118"
+install-transformers = "pip3 install transformers evaluate accelerate datasets"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
