@@ -6,11 +6,24 @@ from pathlib import Path
 
 # %%
 
-df = pd.read_csv("train.csv", header=0)
+root = Path(__file__).parent.parent
+
+# %%
+
+df = pd.read_csv(root / "train.csv", header=0)
 
 # %%
 
 df.hist(column="revenue", bins=100)
+
+# %%
+
+df.head()
+
+# %%
+
+df.columns
+
 
 # %%
 
