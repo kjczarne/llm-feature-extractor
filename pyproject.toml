@@ -5,12 +5,13 @@ description = "Using Large Language Models as feature extractors for tabular dat
 authors = ["Chris Czarnecki <cczarnec@uwaterloo.ca>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "llm_feature_extractor"}]
+packages = [{include = "llm-feature-extractor"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^2.0.3"
 matplotlib = "^3.8.0"
+scikit-learn = "^1.3.1"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.17.5"
