@@ -4,12 +4,15 @@ from transformers import (DistilBertTokenizer,
                           TrainingArguments,
                           Trainer,
                           EvalPrediction)
-from datasets import load_dataset, Dataset
+from datasets import load_dataset, Dataset, DatasetDict
 from pathlib import Path
 from typing import Dict
 import evaluate
 import numpy as np
 import pandas as pd
+import shap
+import torch
+import scipy as sp
 
 
 def accuracy_metric_trainer_api(eval_pred: EvalPrediction) -> Dict[str, int | float]:
@@ -53,16 +56,23 @@ dataset = Dataset.from_pandas(df)
 
 
 # Perform a train-test split
-dataset = dataset.train_test_split(test_size=0.2)
+dataset_split = dataset.train_test_split(test_size=0.1)
+dataset_split_2 = dataset_split['test'].train_test_split(test_size=0.5)  # half for validation, half for test
+
+dataset = DatasetDict({"train": dataset_split["train"],
+                       "val": dataset_split_2["train"],  # doesn't matter which one is val and which one is test because they are equal in size
+                       "test": dataset_split_2["test"]})
 
 # Define the tokenization strategy
-
 def tokenize(batch):
     return tokenizer(batch["text"], padding=True, truncation=True)
 
 train_dataset = dataset["train"].map(tokenize, batched=True, batch_size=len(dataset["train"]))
-val_dataset = dataset["test"].map(tokenize, batched=True, batch_size=len(dataset["test"]))
+val_dataset = dataset["val"].map(tokenize, batched=True, batch_size=len(dataset["val"]))
+test_dataset = dataset["test"].map(tokenize, batched=True, batch_size=len(dataset["test"]))
 
+# Save the datasets
+dataset.save_to_disk("results/dataset")
 
 trainer = Trainer(
     model,
@@ -73,5 +83,8 @@ trainer = Trainer(
     compute_metrics=accuracy_metric_trainer_api
 )
 
+# Run fine-tuning
 trainer.train()
+
+# Save the model
 trainer.save_model(model_save_dir)
