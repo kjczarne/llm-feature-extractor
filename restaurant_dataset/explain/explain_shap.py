@@ -31,6 +31,18 @@ explainer = shap.Explainer(f, tokenizer)
 
 shap_values = explainer(dataset['test'][:10], fixed_context=1, batch_size=2)
 
+plotting_functions = [
+    shap.plots.text,
+    shap.plots.waterfall,
+    shap.plots.scatter,
+    shap.plots.heatmap,
+    shap.plots.force,
+    shap.plots.partial_dependence,
+    shap.plots.decision,
+    shap.plots.embedding,
+    shap.plots.beeswarm,
+]
+
 # plot a sentence's explanation
 plot = shap.plots.text(shap_values[2], display=False)
 
