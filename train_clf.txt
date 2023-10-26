@@ -1,0 +1,5752 @@
+Restaurant 0 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 07/17/1999.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 1
+P15: 2
+P16: 2
+P17: 2
+P18: 4
+P19: 5
+P20: 4
+P21: 1
+P22: 3
+P23: 3
+P24: 1
+P25: 1
+P26: 1.0
+P27: 4.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 3
+P32: 4
+P33: 5
+P34: 5
+P35: 4
+P36: 3
+P37: 4
+
+
+Restaurant 1 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 02/14/2008.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 2
+P21: 1
+P22: 3
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 2 is located in Diyarbakır and is of type IL.
+The city is a Other type of a city. The restaurant opened on 03/09/2013.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 2.0
+P4: 5.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 3 is located in Tokat and is of type IL.
+The city is a Other type of a city. The restaurant opened on 02/02/2012.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 4.5
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 4
+P7: 10
+P8: 8
+P9: 10
+P10: 10
+P11: 8
+P12: 10
+P13: 7.5
+P14: 6
+P15: 4
+P16: 9
+P17: 3
+P18: 12
+P19: 20
+P20: 12
+P21: 6
+P22: 1
+P23: 10
+P24: 2
+P25: 2
+P26: 2.5
+P27: 2.5
+P28: 2.5
+P29: 7.5
+P30: 25
+P31: 12
+P32: 10
+P33: 6
+P34: 18
+P35: 12
+P36: 12
+P37: 6
+
+
+Restaurant 4 is located in Gaziantep and is of type IL.
+The city is a Other type of a city. The restaurant opened on 05/09/2009.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 3.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 2
+P15: 1
+P16: 2
+P17: 1
+P18: 4
+P19: 2
+P20: 2
+P21: 1
+P22: 2
+P23: 1
+P24: 2
+P25: 3
+P26: 3.0
+P27: 5.0
+P28: 1.0
+P29: 3.0
+P30: 5
+P31: 1
+P32: 3
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 3
+
+
+Restaurant 5 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 02/12/2010.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 6.0
+P3: 4.5
+P4: 7.5
+P5: 8
+P6: 10
+P7: 10
+P8: 8
+P9: 8
+P10: 8
+P11: 10
+P12: 8
+P13: 6.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 6
+P21: 3
+P22: 1
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 7.5
+P29: 5.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 6 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 10/11/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 3
+P15: 4
+P16: 4
+P17: 3
+P18: 4
+P19: 2
+P20: 4
+P21: 1
+P22: 2
+P23: 1
+P24: 5
+P25: 4
+P26: 4.0
+P27: 5.0
+P28: 1.0
+P29: 3.0
+P30: 4
+P31: 5
+P32: 2
+P33: 2
+P34: 3
+P35: 5
+P36: 4
+P37: 4
+
+
+Restaurant 7 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 06/21/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 3
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 4
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 5
+P21: 2
+P22: 4
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 8 is located in Afyonkarahisar and is of type IL.
+The city is a Other type of a city. The restaurant opened on 08/28/2010.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 1.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 1
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 1
+P15: 1
+P16: 2
+P17: 1
+P18: 4
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 4
+P25: 4
+P26: 4.0
+P27: 2.0
+P28: 2.0
+P29: 3.0
+P30: 4
+P31: 5
+P32: 5
+P33: 3
+P34: 4
+P35: 5
+P36: 4
+P37: 5
+
+
+Restaurant 9 is located in Edirne and is of type IL.
+The city is a Other type of a city. The restaurant opened on 11/16/2011.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 4.5
+P3: 6.0
+P4: 7.5
+P5: 6
+P6: 4
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 2
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 25
+P20: 3
+P21: 3
+P22: 1
+P23: 10
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 2.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 10 is located in Kocaeli and is of type FC.
+The city is a Other type of a city. The restaurant opened on 08/09/2013.
+The values for the features P1 to P37 are as follows:
+P1: 9
+P2: 6.0
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 4
+P7: 10
+P8: 8
+P9: 10
+P10: 10
+P11: 8
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 25
+P20: 15
+P21: 15
+P22: 3
+P23: 20
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 10.0
+P29: 2.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 11 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 05/22/2012.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 2
+P15: 2
+P16: 5
+P17: 2
+P18: 4
+P19: 2
+P20: 5
+P21: 1
+P22: 1
+P23: 3
+P24: 5
+P25: 2
+P26: 3.0
+P27: 5.0
+P28: 3.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 4
+P33: 2
+P34: 3
+P35: 4
+P36: 4
+P37: 2
+
+
+Restaurant 12 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 02/28/2013.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 1
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 4
+P21: 1
+P22: 2
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 13 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/16/2010.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 4
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 14 is located in Bursa and is of type FC.
+The city is a Other type of a city. The restaurant opened on 12/29/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 3
+P21: 1
+P22: 3
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 15 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 02/07/2012.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 10
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 3
+P15: 10
+P16: 15
+P17: 3
+P18: 12
+P19: 10
+P20: 9
+P21: 3
+P22: 2
+P23: 5
+P24: 8
+P25: 8
+P26: 10.0
+P27: 2.5
+P28: 7.5
+P29: 7.5
+P30: 5
+P31: 15
+P32: 20
+P33: 2
+P34: 12
+P35: 3
+P36: 16
+P37: 4
+
+
+Restaurant 16 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 01/07/2000.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 4
+P9: 5
+P10: 4
+P11: 3
+P12: 5
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 4
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 17 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/08/2009.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 5.0
+P5: 1
+P6: 3
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 18 is located in İzmir and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 04/21/2012.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 3
+P15: 2
+P16: 3
+P17: 2
+P18: 3
+P19: 4
+P20: 5
+P21: 1
+P22: 4
+P23: 2
+P24: 5
+P25: 3
+P26: 3.0
+P27: 3.0
+P28: 2.0
+P29: 3.0
+P30: 3
+P31: 5
+P32: 5
+P33: 4
+P34: 4
+P35: 4
+P36: 3
+P37: 2
+
+
+Restaurant 19 is located in Sakarya and is of type IL.
+The city is a Other type of a city. The restaurant opened on 08/16/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 4
+P10: 4
+P11: 1
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 20 is located in Elazığ and is of type IL.
+The city is a Other type of a city. The restaurant opened on 08/25/2010.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 3
+P15: 5
+P16: 5
+P17: 4
+P18: 4
+P19: 5
+P20: 5
+P21: 1
+P22: 1
+P23: 5
+P24: 2
+P25: 4
+P26: 1.0
+P27: 5.0
+P28: 1.0
+P29: 3.0
+P30: 5
+P31: 1
+P32: 2
+P33: 2
+P34: 4
+P35: 5
+P36: 5
+P37: 4
+
+
+Restaurant 21 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 01/25/2014.
+The values for the features P1 to P37 are as follows:
+P1: 5
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 4
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 5
+P21: 1
+P22: 3
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 22 is located in Kayseri and is of type FC.
+The city is a Other type of a city. The restaurant opened on 07/01/2006.
+The values for the features P1 to P37 are as follows:
+P1: 9
+P2: 6.0
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 6
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 2
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 15
+P20: 12
+P21: 3
+P22: 3
+P23: 10
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 7.5
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 23 is located in Sakarya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 06/03/2009.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 3
+P9: 4
+P10: 4
+P11: 5
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 2
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 24 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 09/20/2009.
+The values for the features P1 to P37 are as follows:
+P1: 5
+P2: 5.0
+P3: 3.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 4
+P11: 2
+P12: 5
+P13: 4.0
+P14: 4
+P15: 4
+P16: 4
+P17: 5
+P18: 4
+P19: 5
+P20: 5
+P21: 2
+P22: 2
+P23: 3
+P24: 2
+P25: 2
+P26: 2.0
+P27: 5.0
+P28: 3.0
+P29: 2.0
+P30: 5
+P31: 5
+P32: 4
+P33: 4
+P34: 4
+P35: 4
+P36: 5
+P37: 2
+
+
+Restaurant 25 is located in Eskişehir and is of type FC.
+The city is a Other type of a city. The restaurant opened on 12/23/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 4.0
+P3: 5.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 1
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 26 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 02/23/2010.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 3
+P7: 5
+P8: 3
+P9: 5
+P10: 4
+P11: 5
+P12: 5
+P13: 4.0
+P14: 3
+P15: 4
+P16: 4
+P17: 1
+P18: 4
+P19: 5
+P20: 5
+P21: 2
+P22: 3
+P23: 2
+P24: 2
+P25: 2
+P26: 2.0
+P27: 1.0
+P28: 3.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 4
+P33: 3
+P34: 3
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 27 is located in Bursa and is of type FC.
+The city is a Other type of a city. The restaurant opened on 10/09/1999.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 5
+P22: 5
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 4.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 28 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 01/28/1998.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 4
+P10: 4
+P11: 2
+P12: 4
+P13: 4.0
+P14: 3
+P15: 4
+P16: 4
+P17: 2
+P18: 4
+P19: 5
+P20: 5
+P21: 2
+P22: 4
+P23: 3
+P24: 5
+P25: 3
+P26: 4.0
+P27: 2.0
+P28: 4.0
+P29: 2.0
+P30: 3
+P31: 5
+P32: 5
+P33: 2
+P34: 3
+P35: 5
+P36: 4
+P37: 4
+
+
+Restaurant 29 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/13/2006.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 1.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 1
+P7: 1
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 2
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 30 is located in Sakarya and is of type IL.
+The city is a Other type of a city. The restaurant opened on 12/01/2008.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 1.0
+P3: 3.0
+P4: 3.0
+P5: 2
+P6: 1
+P7: 1
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 31 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/31/2012.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 2
+P15: 3
+P16: 3
+P17: 1
+P18: 3
+P19: 4
+P20: 2
+P21: 1
+P22: 2
+P23: 1
+P24: 5
+P25: 2
+P26: 5.0
+P27: 2.0
+P28: 2.0
+P29: 3.0
+P30: 4
+P31: 3
+P32: 3
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 3
+
+
+Restaurant 32 is located in Şanlıurfa and is of type FC.
+The city is a Other type of a city. The restaurant opened on 01/17/2009.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 3.0
+P4: 4.0
+P5: 3
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 3
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 33 is located in Samsun and is of type FC.
+The city is a Other type of a city. The restaurant opened on 04/23/2013.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 1
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 34 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 03/21/2012.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 4
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 4.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 35 is located in Adana and is of type IL.
+The city is a Other type of a city. The restaurant opened on 05/08/1996.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 5
+P12: 4
+P13: 5.0
+P14: 2
+P15: 2
+P16: 4
+P17: 2
+P18: 4
+P19: 5
+P20: 5
+P21: 4
+P22: 3
+P23: 5
+P24: 3
+P25: 3
+P26: 3.0
+P27: 4.0
+P28: 3.0
+P29: 2.0
+P30: 4
+P31: 1
+P32: 3
+P33: 3
+P34: 3
+P35: 4
+P36: 3
+P37: 3
+
+
+Restaurant 36 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 05/09/2008.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 5
+P21: 2
+P22: 4
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 37 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 08/23/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 1
+P15: 1
+P16: 2
+P17: 1
+P18: 4
+P19: 1
+P20: 3
+P21: 1
+P22: 2
+P23: 5
+P24: 1
+P25: 1
+P26: 1.0
+P27: 1.0
+P28: 1.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 5
+P33: 3
+P34: 4
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 38 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 01/18/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 4
+P9: 5
+P10: 4
+P11: 3
+P12: 5
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 4
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 39 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 03/28/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 4
+P12: 4
+P13: 4.0
+P14: 4
+P15: 4
+P16: 3
+P17: 3
+P18: 3
+P19: 3
+P20: 5
+P21: 1
+P22: 2
+P23: 2
+P24: 3
+P25: 3
+P26: 3.0
+P27: 1.0
+P28: 2.0
+P29: 2.0
+P30: 4
+P31: 1
+P32: 2
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 2
+
+
+Restaurant 40 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 02/09/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 1
+P9: 4
+P10: 4
+P11: 5
+P12: 2
+P13: 4.0
+P14: 4
+P15: 4
+P16: 4
+P17: 3
+P18: 3
+P19: 5
+P20: 5
+P21: 5
+P22: 1
+P23: 1
+P24: 5
+P25: 5
+P26: 5.0
+P27: 1.0
+P28: 3.0
+P29: 2.0
+P30: 5
+P31: 5
+P32: 3
+P33: 3
+P34: 3
+P35: 4
+P36: 3
+P37: 2
+
+
+Restaurant 41 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 06/01/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 5
+P7: 5
+P8: 3
+P9: 4
+P10: 5
+P11: 5
+P12: 3
+P13: 5.0
+P14: 3
+P15: 4
+P16: 5
+P17: 5
+P18: 4
+P19: 5
+P20: 5
+P21: 5
+P22: 5
+P23: 5
+P24: 5
+P25: 3
+P26: 5.0
+P27: 1.0
+P28: 5.0
+P29: 1.0
+P30: 5
+P31: 5
+P32: 4
+P33: 3
+P34: 3
+P35: 4
+P36: 4
+P37: 1
+
+
+Restaurant 42 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 09/27/2011.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 4
+P7: 10
+P8: 8
+P9: 10
+P10: 10
+P11: 6
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 25
+P20: 15
+P21: 6
+P22: 4
+P23: 20
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 7.5
+P29: 5.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 43 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 09/24/2009.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 44 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 10/13/2004.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 1
+P15: 1
+P16: 3
+P17: 1
+P18: 4
+P19: 1
+P20: 3
+P21: 1
+P22: 2
+P23: 1
+P24: 1
+P25: 1
+P26: 1.0
+P27: 1.0
+P28: 2.0
+P29: 3.0
+P30: 3
+P31: 5
+P32: 5
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 4
+
+
+Restaurant 45 is located in Antalya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 02/02/2012.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 6.0
+P3: 6.0
+P4: 4.5
+P5: 2
+P6: 8
+P7: 10
+P8: 10
+P9: 10
+P10: 8
+P11: 4
+P12: 10
+P13: 6.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 15
+P21: 3
+P22: 2
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 46 is located in İzmir and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 08/25/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 2
+P15: 2
+P16: 4
+P17: 2
+P18: 4
+P19: 2
+P20: 5
+P21: 2
+P22: 4
+P23: 2
+P24: 1
+P25: 1
+P26: 1.0
+P27: 4.0
+P28: 3.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 4
+P33: 2
+P34: 2
+P35: 4
+P36: 3
+P37: 3
+
+
+Restaurant 47 is located in İzmir and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/23/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 4
+P15: 4
+P16: 3
+P17: 5
+P18: 4
+P19: 3
+P20: 5
+P21: 3
+P22: 5
+P23: 5
+P24: 4
+P25: 4
+P26: 4.0
+P27: 4.0
+P28: 5.0
+P29: 3.0
+P30: 4
+P31: 1
+P32: 2
+P33: 2
+P34: 3
+P35: 5
+P36: 5
+P37: 1
+
+
+Restaurant 48 is located in Kayseri and is of type FC.
+The city is a Other type of a city. The restaurant opened on 12/21/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 3
+P22: 3
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 4.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 49 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 04/01/2008.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 8
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 15
+P20: 3
+P21: 3
+P22: 3
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 7.5
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 50 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 05/01/2010.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 3
+P6: 4
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 4
+P13: 4.0
+P14: 1
+P15: 1
+P16: 2
+P17: 1
+P18: 1
+P19: 5
+P20: 5
+P21: 1
+P22: 3
+P23: 2
+P24: 2
+P25: 2
+P26: 2.0
+P27: 1.0
+P28: 3.0
+P29: 3.0
+P30: 5
+P31: 2
+P32: 3
+P33: 2
+P34: 2
+P35: 2
+P36: 3
+P37: 3
+
+
+Restaurant 51 is located in Kastamonu and is of type IL.
+The city is a Other type of a city. The restaurant opened on 11/08/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 4
+P8: 4
+P9: 5
+P10: 5
+P11: 4
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 4
+P21: 2
+P22: 1
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 52 is located in Uşak and is of type FC.
+The city is a Other type of a city. The restaurant opened on 11/12/2013.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 1
+P7: 1
+P8: 4
+P9: 4
+P10: 5
+P11: 3
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 53 is located in Samsun and is of type FC.
+The city is a Other type of a city. The restaurant opened on 03/29/2013.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 4
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 54 is located in Muğla and is of type IL.
+The city is a Other type of a city. The restaurant opened on 06/05/1999.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 1
+P7: 3
+P8: 4
+P9: 4
+P10: 4
+P11: 4
+P12: 2
+P13: 3.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 2
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 55 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 08/12/2008.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 4
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 56 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 03/16/2013.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 5
+P21: 2
+P22: 2
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 57 is located in Antalya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 06/21/2008.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 4
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 2
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 58 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 04/11/2012.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 3
+P21: 1
+P22: 3
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 59 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 12/01/2007.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 3
+P21: 1
+P22: 3
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 60 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 05/01/2012.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 6
+P7: 10
+P8: 8
+P9: 10
+P10: 10
+P11: 6
+P12: 10
+P13: 7.5
+P14: 6
+P15: 4
+P16: 9
+P17: 3
+P18: 12
+P19: 10
+P20: 15
+P21: 6
+P22: 3
+P23: 10
+P24: 4
+P25: 4
+P26: 5.0
+P27: 2.5
+P28: 5.0
+P29: 7.5
+P30: 10
+P31: 15
+P32: 20
+P33: 4
+P34: 18
+P35: 12
+P36: 12
+P37: 2
+
+
+Restaurant 61 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 05/30/2008.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 6
+P7: 10
+P8: 8
+P9: 8
+P10: 8
+P11: 6
+P12: 8
+P13: 6.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 15
+P20: 12
+P21: 3
+P22: 2
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 7.5
+P29: 5.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 62 is located in Sakarya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 11/15/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 4
+P11: 2
+P12: 5
+P13: 4.0
+P14: 4
+P15: 1
+P16: 2
+P17: 2
+P18: 4
+P19: 3
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 3
+P25: 3
+P26: 3.0
+P27: 1.0
+P28: 2.0
+P29: 3.0
+P30: 1
+P31: 1
+P32: 3
+P33: 2
+P34: 3
+P35: 1
+P36: 3
+P37: 3
+
+
+Restaurant 63 is located in Kırklareli and is of type FC.
+The city is a Other type of a city. The restaurant opened on 08/05/2013.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 4.0
+P5: 3
+P6: 1
+P7: 4
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 64 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 07/13/1998.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 8
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 15
+P15: 10
+P16: 15
+P17: 15
+P18: 12
+P19: 10
+P20: 9
+P21: 6
+P22: 3
+P23: 5
+P24: 10
+P25: 10
+P26: 12.5
+P27: 5.0
+P28: 5.0
+P29: 7.5
+P30: 20
+P31: 15
+P32: 25
+P33: 4
+P34: 24
+P35: 15
+P36: 20
+P37: 6
+
+
+Restaurant 65 is located in İzmir and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 12/21/2013.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 66 is located in Konya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 01/09/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 1
+P7: 1
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 3
+P21: 1
+P22: 1
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 67 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 03/01/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 4
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 3
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 3
+P22: 5
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 68 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 03/16/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 3.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 4
+P11: 1
+P12: 5
+P13: 4.0
+P14: 2
+P15: 2
+P16: 2
+P17: 1
+P18: 4
+P19: 2
+P20: 1
+P21: 1
+P22: 2
+P23: 1
+P24: 5
+P25: 3
+P26: 5.0
+P27: 5.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 5
+P33: 4
+P34: 4
+P35: 4
+P36: 3
+P37: 4
+
+
+Restaurant 69 is located in Konya and is of type IL.
+The city is a Other type of a city. The restaurant opened on 08/30/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 5.0
+P5: 4
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 1
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 70 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/27/2006.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 4
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 5
+P21: 1
+P22: 4
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 71 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/06/2006.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 10
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 9
+P15: 8
+P16: 12
+P17: 3
+P18: 12
+P19: 10
+P20: 9
+P21: 6
+P22: 3
+P23: 5
+P24: 8
+P25: 8
+P26: 10.0
+P27: 10.0
+P28: 10.0
+P29: 7.5
+P30: 5
+P31: 6
+P32: 10
+P33: 6
+P34: 18
+P35: 12
+P36: 12
+P37: 6
+
+
+Restaurant 72 is located in İzmir and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 08/05/2009.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 3
+P9: 4
+P10: 5
+P11: 5
+P12: 4
+P13: 5.0
+P14: 3
+P15: 2
+P16: 3
+P17: 1
+P18: 4
+P19: 4
+P20: 5
+P21: 5
+P22: 3
+P23: 5
+P24: 5
+P25: 2
+P26: 5.0
+P27: 3.0
+P28: 5.0
+P29: 1.0
+P30: 4
+P31: 3
+P32: 3
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 73 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/04/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 3
+P9: 4
+P10: 5
+P11: 5
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 5
+P22: 5
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 0.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 74 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/01/2011.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 8
+P7: 10
+P8: 8
+P9: 8
+P10: 8
+P11: 8
+P12: 8
+P13: 6.0
+P14: 12
+P15: 10
+P16: 12
+P17: 9
+P18: 9
+P19: 20
+P20: 15
+P21: 6
+P22: 4
+P23: 25
+P24: 10
+P25: 8
+P26: 10.0
+P27: 2.5
+P28: 12.5
+P29: 2.5
+P30: 20
+P31: 9
+P32: 15
+P33: 4
+P34: 12
+P35: 12
+P36: 12
+P37: 4
+
+
+Restaurant 75 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/15/2005.
+The values for the features P1 to P37 are as follows:
+P1: 5
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 1
+P6: 4
+P7: 5
+P8: 3
+P9: 4
+P10: 4
+P11: 5
+P12: 3
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 5
+P22: 5
+P23: 4
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 0.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 76 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/25/2008.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 4
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 77 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/25/2013.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 3.0
+P4: 5.0
+P5: 3
+P6: 4
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 1
+P22: 3
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 78 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 09/29/2012.
+The values for the features P1 to P37 are as follows:
+P1: 9
+P2: 7.5
+P3: 6.0
+P4: 7.5
+P5: 8
+P6: 6
+P7: 10
+P8: 10
+P9: 8
+P10: 8
+P11: 4
+P12: 6
+P13: 6.0
+P14: 3
+P15: 2
+P16: 9
+P17: 3
+P18: 12
+P19: 25
+P20: 12
+P21: 6
+P22: 2
+P23: 10
+P24: 4
+P25: 4
+P26: 5.0
+P27: 2.5
+P28: 7.5
+P29: 2.5
+P30: 20
+P31: 9
+P32: 20
+P33: 4
+P34: 18
+P35: 12
+P36: 12
+P37: 2
+
+
+Restaurant 79 is located in Adana and is of type IL.
+The city is a Other type of a city. The restaurant opened on 01/25/2010.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 2
+P15: 2
+P16: 4
+P17: 2
+P18: 4
+P19: 3
+P20: 3
+P21: 1
+P22: 4
+P23: 4
+P24: 3
+P25: 3
+P26: 3.0
+P27: 2.0
+P28: 2.0
+P29: 3.0
+P30: 4
+P31: 5
+P32: 5
+P33: 3
+P34: 3
+P35: 4
+P36: 4
+P37: 3
+
+
+Restaurant 80 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/16/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 5
+P21: 2
+P22: 5
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 81 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 12/16/2005.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 4
+P21: 2
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 82 is located in Karabük and is of type FC.
+The city is a Other type of a city. The restaurant opened on 02/23/2010.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 2.0
+P3: 4.0
+P4: 3.0
+P5: 2
+P6: 1
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 5
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 4
+P21: 2
+P22: 2
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 83 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 08/12/1998.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 4
+P9: 5
+P10: 4
+P11: 3
+P12: 5
+P13: 4.0
+P14: 4
+P15: 4
+P16: 5
+P17: 5
+P18: 5
+P19: 2
+P20: 4
+P21: 1
+P22: 2
+P23: 1
+P24: 5
+P25: 5
+P26: 5.0
+P27: 1.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 5
+P33: 3
+P34: 4
+P35: 4
+P36: 5
+P37: 3
+
+
+Restaurant 84 is located in İzmir and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 10/09/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 4.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 3
+P15: 2
+P16: 4
+P17: 1
+P18: 4
+P19: 1
+P20: 3
+P21: 2
+P22: 2
+P23: 3
+P24: 3
+P25: 2
+P26: 3.0
+P27: 5.0
+P28: 2.0
+P29: 3.0
+P30: 4
+P31: 3
+P32: 3
+P33: 2
+P34: 4
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 85 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 01/07/2000.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 4
+P9: 5
+P10: 4
+P11: 3
+P12: 5
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 4
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 86 is located in Bursa and is of type FC.
+The city is a Other type of a city. The restaurant opened on 07/26/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 5
+P21: 1
+P22: 3
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 87 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 02/11/2008.
+The values for the features P1 to P37 are as follows:
+P1: 5
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 4
+P10: 4
+P11: 2
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 3
+P22: 4
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 88 is located in Antalya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 07/10/2013.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 2.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 1
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 89 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 05/11/2009.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 1.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 1
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 1
+P15: 1
+P16: 1
+P17: 1
+P18: 1
+P19: 2
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 1
+P25: 1
+P26: 1.0
+P27: 5.0
+P28: 1.0
+P29: 3.0
+P30: 5
+P31: 4
+P32: 4
+P33: 3
+P34: 3
+P35: 4
+P36: 2
+P37: 3
+
+
+Restaurant 90 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 08/08/2013.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 6.0
+P5: 2
+P6: 8
+P7: 10
+P8: 10
+P9: 8
+P10: 8
+P11: 4
+P12: 8
+P13: 6.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 15
+P20: 9
+P21: 3
+P22: 3
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 91 is located in Bursa and is of type IL.
+The city is a Other type of a city. The restaurant opened on 06/20/2007.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 2
+P21: 1
+P22: 2
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 92 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/01/2002.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 7.5
+P4: 6.0
+P5: 2
+P6: 10
+P7: 10
+P8: 8
+P9: 8
+P10: 10
+P11: 8
+P12: 8
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 25
+P20: 15
+P21: 6
+P22: 3
+P23: 25
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 10.0
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 93 is located in Tekirdağ and is of type IL.
+The city is a Other type of a city. The restaurant opened on 10/14/2012.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 4
+P13: 5.0
+P14: 5
+P15: 5
+P16: 3
+P17: 2
+P18: 4
+P19: 3
+P20: 5
+P21: 1
+P22: 3
+P23: 1
+P24: 2
+P25: 2
+P26: 2.0
+P27: 1.0
+P28: 2.0
+P29: 2.0
+P30: 3
+P31: 1
+P32: 4
+P33: 3
+P34: 4
+P35: 5
+P36: 5
+P37: 3
+
+
+Restaurant 94 is located in Samsun and is of type FC.
+The city is a Other type of a city. The restaurant opened on 08/08/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 3
+P15: 2
+P16: 4
+P17: 1
+P18: 3
+P19: 3
+P20: 2
+P21: 1
+P22: 2
+P23: 1
+P24: 5
+P25: 1
+P26: 2.0
+P27: 5.0
+P28: 1.0
+P29: 3.0
+P30: 4
+P31: 4
+P32: 3
+P33: 4
+P34: 4
+P35: 4
+P36: 3
+P37: 5
+
+
+Restaurant 95 is located in Samsun and is of type FC.
+The city is a Other type of a city. The restaurant opened on 06/08/2012.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 96 is located in Diyarbakır and is of type FC.
+The city is a Other type of a city. The restaurant opened on 11/27/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 2.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 3
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 2
+P21: 1
+P22: 2
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 97 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 01/26/2009.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 4
+P7: 5
+P8: 4
+P9: 5
+P10: 4
+P11: 4
+P12: 5
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 5
+P21: 2
+P22: 4
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 5.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 98 is located in Denizli and is of type FC.
+The city is a Other type of a city. The restaurant opened on 03/11/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 2
+P9: 4
+P10: 5
+P11: 5
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 5
+P21: 1
+P22: 3
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 99 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/18/1999.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 4
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 3
+P13: 4.0
+P14: 5
+P15: 5
+P16: 5
+P17: 5
+P18: 5
+P19: 5
+P20: 5
+P21: 5
+P22: 3
+P23: 1
+P24: 5
+P25: 5
+P26: 5.0
+P27: 1.0
+P28: 5.0
+P29: 1.0
+P30: 5
+P31: 5
+P32: 4
+P33: 2
+P34: 5
+P35: 5
+P36: 5
+P37: 3
+
+
+Restaurant 100 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 09/21/2007.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 5
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 5
+P21: 2
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 4.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 101 is located in Balıkesir and is of type IL.
+The city is a Other type of a city. The restaurant opened on 09/09/2012.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 5.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 4
+P12: 5
+P13: 5.0
+P14: 5
+P15: 4
+P16: 5
+P17: 5
+P18: 4
+P19: 5
+P20: 5
+P21: 4
+P22: 2
+P23: 5
+P24: 1
+P25: 1
+P26: 1.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 5
+P33: 5
+P34: 4
+P35: 5
+P36: 5
+P37: 4
+
+
+Restaurant 102 is located in Diyarbakır and is of type FC.
+The city is a Other type of a city. The restaurant opened on 09/11/2004.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 2.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 3
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 4
+P21: 1
+P22: 2
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 103 is located in Tekirdağ and is of type FC.
+The city is a Other type of a city. The restaurant opened on 12/06/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 3
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 104 is located in Adana and is of type IL.
+The city is a Other type of a city. The restaurant opened on 01/22/2007.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 1
+P15: 2
+P16: 2
+P17: 1
+P18: 3
+P19: 2
+P20: 5
+P21: 1
+P22: 3
+P23: 4
+P24: 1
+P25: 1
+P26: 4.0
+P27: 3.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 3
+P33: 3
+P34: 5
+P35: 4
+P36: 3
+P37: 2
+
+
+Restaurant 105 is located in Aydın and is of type FC.
+The city is a Other type of a city. The restaurant opened on 03/15/2008.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 2.0
+P3: 5.0
+P4: 3.0
+P5: 1
+P6: 2
+P7: 1
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 1.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 106 is located in Antalya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 06/15/2008.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 3.0
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 2
+P7: 2
+P8: 8
+P9: 10
+P10: 10
+P11: 6
+P12: 10
+P13: 7.5
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 3
+P21: 3
+P22: 1
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.5
+P29: 7.5
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 107 is located in Samsun and is of type IL.
+The city is a Other type of a city. The restaurant opened on 05/01/2011.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 3
+P15: 5
+P16: 5
+P17: 3
+P18: 4
+P19: 5
+P20: 5
+P21: 3
+P22: 3
+P23: 5
+P24: 2
+P25: 2
+P26: 2.0
+P27: 3.0
+P28: 3.0
+P29: 1.0
+P30: 5
+P31: 5
+P32: 5
+P33: 3
+P34: 4
+P35: 4
+P36: 4
+P37: 3
+
+
+Restaurant 108 is located in Muğla and is of type FC.
+The city is a Other type of a city. The restaurant opened on 07/09/2012.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 2.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 1
+P8: 5
+P9: 4
+P10: 4
+P11: 2
+P12: 4
+P13: 3.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 109 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 08/25/2007.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 3.0
+P4: 5.0
+P5: 4
+P6: 5
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 2
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 110 is located in Amasya and is of type IL.
+The city is a Other type of a city. The restaurant opened on 09/26/2012.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 3.0
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 4
+P7: 10
+P8: 8
+P9: 10
+P10: 10
+P11: 6
+P12: 10
+P13: 7.5
+P14: 9
+P15: 8
+P16: 12
+P17: 3
+P18: 12
+P19: 10
+P20: 12
+P21: 6
+P22: 1
+P23: 10
+P24: 2
+P25: 2
+P26: 2.5
+P27: 2.5
+P28: 5.0
+P29: 7.5
+P30: 15
+P31: 3
+P32: 15
+P33: 6
+P34: 18
+P35: 12
+P36: 16
+P37: 6
+
+
+Restaurant 111 is located in Kütahya and is of type FC.
+The city is a Other type of a city. The restaurant opened on 08/10/2012.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 1
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 112 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 03/14/1998.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 5.0
+P4: 4.0
+P5: 1
+P6: 5
+P7: 5
+P8: 5
+P9: 4
+P10: 4
+P11: 2
+P12: 4
+P13: 4.0
+P14: 3
+P15: 4
+P16: 2
+P17: 1
+P18: 4
+P19: 2
+P20: 3
+P21: 2
+P22: 2
+P23: 1
+P24: 3
+P25: 3
+P26: 4.0
+P27: 5.0
+P28: 3.0
+P29: 3.0
+P30: 3
+P31: 2
+P32: 1
+P33: 2
+P34: 2
+P35: 1
+P36: 3
+P37: 3
+
+
+Restaurant 113 is located in Tekirdağ and is of type FC.
+The city is a Other type of a city. The restaurant opened on 12/09/2006.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 3
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 114 is located in Eskişehir and is of type IL.
+The city is a Other type of a city. The restaurant opened on 12/06/2008.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 5.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 3
+P15: 4
+P16: 3
+P17: 1
+P18: 3
+P19: 5
+P20: 5
+P21: 4
+P22: 5
+P23: 5
+P24: 3
+P25: 3
+P26: 3.0
+P27: 2.0
+P28: 4.0
+P29: 1.0
+P30: 5
+P31: 3
+P32: 3
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 115 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 05/04/2012.
+The values for the features P1 to P37 are as follows:
+P1: 6
+P2: 4.5
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 8
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 6
+P15: 4
+P16: 12
+P17: 6
+P18: 12
+P19: 5
+P20: 9
+P21: 3
+P22: 2
+P23: 5
+P24: 8
+P25: 8
+P26: 10.0
+P27: 12.5
+P28: 5.0
+P29: 7.5
+P30: 25
+P31: 15
+P32: 25
+P33: 4
+P34: 18
+P35: 12
+P36: 16
+P37: 8
+
+
+Restaurant 116 is located in İzmir and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 03/30/2012.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 3
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 2
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 117 is located in Ankara and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/27/2005.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 3
+P6: 3
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 2
+P13: 5.0
+P14: 1
+P15: 3
+P16: 3
+P17: 1
+P18: 4
+P19: 5
+P20: 5
+P21: 4
+P22: 2
+P23: 2
+P24: 1
+P25: 1
+P26: 1.0
+P27: 1.0
+P28: 3.0
+P29: 1.0
+P30: 3
+P31: 3
+P32: 3
+P33: 2
+P34: 3
+P35: 4
+P36: 3
+P37: 1
+
+
+Restaurant 118 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 12/25/2009.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 7.5
+P4: 4.5
+P5: 2
+P6: 10
+P7: 10
+P8: 10
+P9: 10
+P10: 10
+P11: 4
+P12: 10
+P13: 7.5
+P14: 3
+P15: 4
+P16: 9
+P17: 3
+P18: 3
+P19: 10
+P20: 15
+P21: 3
+P22: 4
+P23: 5
+P24: 6
+P25: 4
+P26: 7.5
+P27: 5.0
+P28: 10.0
+P29: 5.0
+P30: 25
+P31: 6
+P32: 10
+P33: 4
+P34: 18
+P35: 12
+P36: 12
+P37: 2
+
+
+Restaurant 119 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 01/03/2014.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 2
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 120 is located in Aydın and is of type FC.
+The city is a Other type of a city. The restaurant opened on 08/18/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 4
+P21: 2
+P22: 2
+P23: 3
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 121 is located in İzmir and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/13/2004.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 4
+P11: 2
+P12: 5
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 2
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 122 is located in İstanbul and is of type IL.
+The city is a Big Cities type of a city. The restaurant opened on 04/10/1997.
+The values for the features P1 to P37 are as follows:
+P1: 12
+P2: 7.5
+P3: 6.0
+P4: 7.5
+P5: 2
+P6: 8
+P7: 10
+P8: 8
+P9: 8
+P10: 8
+P11: 10
+P12: 6
+P13: 6.0
+P14: 15
+P15: 8
+P16: 12
+P17: 6
+P18: 9
+P19: 25
+P20: 15
+P21: 9
+P22: 5
+P23: 15
+P24: 6
+P25: 10
+P26: 10.0
+P27: 5.0
+P28: 12.5
+P29: 2.5
+P30: 25
+P31: 15
+P32: 25
+P33: 6
+P34: 18
+P35: 3
+P36: 16
+P37: 6
+
+
+Restaurant 123 is located in Bolu and is of type FC.
+The city is a Other type of a city. The restaurant opened on 11/05/2011.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 1.0
+P3: 4.0
+P4: 3.0
+P5: 1
+P6: 1
+P7: 1
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 124 is located in Ankara and is of type DT.
+The city is a Big Cities type of a city. The restaurant opened on 08/18/2005.
+The values for the features P1 to P37 are as follows:
+P1: 1
+P2: 3.0
+P3: 0.0
+P4: 5.0
+P5: 5
+P6: 5
+P7: 1
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 2
+P21: 2
+P22: 1
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 125 is located in Trabzon and is of type IL.
+The city is a Other type of a city. The restaurant opened on 09/01/2010.
+The values for the features P1 to P37 are as follows:
+P1: 9
+P2: 6.0
+P3: 6.0
+P4: 6.0
+P5: 4
+P6: 6
+P7: 10
+P8: 6
+P9: 8
+P10: 10
+P11: 10
+P12: 8
+P13: 7.5
+P14: 9
+P15: 10
+P16: 15
+P17: 3
+P18: 12
+P19: 15
+P20: 15
+P21: 9
+P22: 2
+P23: 25
+P24: 6
+P25: 4
+P26: 7.5
+P27: 2.5
+P28: 5.0
+P29: 7.5
+P30: 20
+P31: 9
+P32: 15
+P33: 4
+P34: 24
+P35: 12
+P36: 16
+P37: 2
+
+
+Restaurant 126 is located in Isparta and is of type IL.
+The city is a Other type of a city. The restaurant opened on 07/20/2008.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 3.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 1
+P15: 5
+P16: 4
+P17: 2
+P18: 4
+P19: 5
+P20: 5
+P21: 2
+P22: 1
+P23: 4
+P24: 3
+P25: 3
+P26: 3.0
+P27: 2.0
+P28: 2.0
+P29: 3.0
+P30: 5
+P31: 5
+P32: 5
+P33: 4
+P34: 2
+P35: 5
+P36: 3
+P37: 2
+
+
+Restaurant 127 is located in Bursa and is of type FC.
+The city is a Other type of a city. The restaurant opened on 09/07/2007.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 2
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 128 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/14/2011.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 1
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 129 is located in Eskişehir and is of type FC.
+The city is a Other type of a city. The restaurant opened on 02/08/2007.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 5.0
+P4: 4.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 5
+P10: 5
+P11: 3
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 5
+P20: 5
+P21: 4
+P22: 5
+P23: 5
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 4.0
+P29: 1.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 130 is located in Osmaniye and is of type FC.
+The city is a Other type of a city. The restaurant opened on 10/29/2011.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 3.0
+P4: 4.0
+P5: 2
+P6: 1
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 131 is located in Ankara and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 11/06/2002.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 5.0
+P5: 3
+P6: 4
+P7: 5
+P8: 4
+P9: 4
+P10: 4
+P11: 5
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 5
+P21: 1
+P22: 2
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 2.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 132 is located in Trabzon and is of type FC.
+The city is a Other type of a city. The restaurant opened on 06/25/2008.
+The values for the features P1 to P37 are as follows:
+P1: 2
+P2: 3.0
+P3: 3.0
+P4: 5.0
+P5: 4
+P6: 2
+P7: 4
+P8: 4
+P9: 4
+P10: 4
+P11: 4
+P12: 4
+P13: 4.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 4
+P20: 3
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 133 is located in İzmir and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/12/2006.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 5
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 3
+P20: 2
+P21: 2
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 134 is located in Kayseri and is of type FC.
+The city is a Other type of a city. The restaurant opened on 07/08/2006.
+The values for the features P1 to P37 are as follows:
+P1: 3
+P2: 4.0
+P3: 4.0
+P4: 4.0
+P5: 2
+P6: 3
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 1
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 3
+P21: 1
+P22: 2
+P23: 2
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 2.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 135 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 10/29/2010.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 4.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 5
+P9: 5
+P10: 5
+P11: 2
+P12: 5
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 1
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
+
+
+Restaurant 136 is located in İstanbul and is of type FC.
+The city is a Big Cities type of a city. The restaurant opened on 09/01/2009.
+The values for the features P1 to P37 are as follows:
+P1: 4
+P2: 5.0
+P3: 3.0
+P4: 5.0
+P5: 2
+P6: 2
+P7: 5
+P8: 4
+P9: 4
+P10: 5
+P11: 4
+P12: 4
+P13: 5.0
+P14: 0
+P15: 0
+P16: 0
+P17: 0
+P18: 0
+P19: 2
+P20: 1
+P21: 1
+P22: 1
+P23: 1
+P24: 0
+P25: 0
+P26: 0.0
+P27: 0.0
+P28: 3.0
+P29: 3.0
+P30: 0
+P31: 0
+P32: 0
+P33: 0
+P34: 0
+P35: 0
+P36: 0
+P37: 0
