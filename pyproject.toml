@@ -23,7 +23,7 @@ ipykernel = "^6.25.2"
 
 [tool.poe.tasks]
 install-torch = "pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118"
-install-transformers = "pip3 install transformers evaluate accelerate datasets"
+install-transformers = "pip3 install transformers==4.34.0 evaluate accelerate datasets"
 install-captum = "pip3 install captum"  # Captum depends on torch and will reinstall wrong torch version if added to dependencies
 
 [build-system]
