@@ -13,7 +13,6 @@ pandas = "^2.0.3"
 matplotlib = "^3.8.0"
 scikit-learn = "^1.3.1"
 lime = "^0.2.0.1"
-captum = "^0.6.0"
 xgboost = "^2.0.0"
 
 [tool.poetry.group.dev.dependencies]
@@ -25,6 +24,7 @@ ipykernel = "^6.25.2"
 [tool.poe.tasks]
 install-torch = "pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118"
 install-transformers = "pip3 install transformers evaluate accelerate datasets"
+install-captum = "pip3 install captum"  # Captum depends on torch and will reinstall wrong torch version if added to dependencies
 
 [build-system]
 requires = ["poetry-core"]
