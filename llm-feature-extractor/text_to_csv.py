@@ -1,10 +1,13 @@
-from transformers import pipeline
+from transformers import pipeline, AutoModelForCausalLM
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List
 import pandas as pd
 import torch
 import argparse
+from .instruct_pipeline import InstructionTextGenerationPipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
 
 
 @dataclass
@@ -12,6 +15,7 @@ class Config:
     model_name: str
     text_file_path: Path
     features: List[str]
+    save_model: bool = False
 
 
 def construct_prompt(text: str, features: List[str]) -> str:
@@ -23,12 +27,19 @@ def construct_prompt(text: str, features: List[str]) -> str:
 
 
 def text_to_csv(config: Config) -> str:
-    instruct_pipeline = pipeline(model=config.model_name,
-                                 torch_dtype=torch.bfloat16,
-                                 trust_remote_code=True,
-                                 device_map="auto")
+    tokenizer = AutoTokenizer.from_pretrained(config.model_name,
+                                              padding_side="left")
+    model = AutoModelForCausalLM.from_pretrained(config.model_name,
+                                                 device_map="auto",
+                                                 torch_dtype=torch.bfloat16)
+
+    instruct_pipeline = InstructionTextGenerationPipeline(model=model,
+                                                          tokenizer=tokenizer)
 
     responses = []
+
+    if config.save_model:
+        instruct_pipeline.save_pretrained("model")
 
     with open(config.text_file_path, "r") as f:
         text = f.read()
@@ -44,19 +55,25 @@ def main():
                         help="Name of the model to use",
                         # default="mistralai/Mistral-7B-Instruct-v0.1")
                         # default="databricks/dolly-v2-12b")
-                        default="databricks/dolly-v2-3b")
+                        # default="databricks/dolly-v2-3b")
+                        default="./model")
     parser.add_argument("-t", "--text-file-path",
                         default="text.txt",
                         help="Path to the text file from which we want to extract features")
     parser.add_argument("-f", "--features",
                         nargs="+",
                         help="Features to be extracted from the test sample")
+    parser.add_argument("--save-model",
+                        action="store_true",
+                        default=False,
+                        help="Whether to save the downloaded model or not")
     args = parser.parse_args()
 
     features = [] if args.features is None else args.features
     text = text_to_csv(Config(args.model_name,
                               Path(args.text_file_path),
-                              features))
+                              features,
+                              args.save_model))
     print(text)
 
 
