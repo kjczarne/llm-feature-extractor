@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dataframe Text-to-CSV Pipeline (Saved model)",
+            "type": "python",
+            "request": "launch",
+            "module": "llm_feature_extractor.df_text_to_csv",
+            "justMyCode": true
+        },
+        {
+            "name": "Dataframe Text-to-CSV Pipeline (Mistral-7B-Instruct)",
+            "type": "python",
+            "request": "launch",
+            "module": "llm_feature_extractor.df_text_to_csv",
+            "justMyCode": true,
+            "args": [
+                "--model", "mistralai/Mistral-7B-Instruct-v0.1"
+            ]
+        },
+        {
+            "name": "Text-to-CSV Pipeline",
+            "type": "python",
+            "request": "launch",
+            "module": "llm_feature_extractor.text_to_csv",
+            "justMyCode": true,
+            "args": [
+                "--features",
+                "city_type",
+                "P6",
+                "P9"
+            ]
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
