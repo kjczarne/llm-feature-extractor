@@ -1,5 +1,6 @@
 from llm_feature_extractor.text_to_csv import text_to_csv, Config, construct_prompt
 import pandas as pd
+import argparse
 from typing import List
 from rich.pretty import pprint
 
@@ -64,10 +65,18 @@ def df_row_explain(df: pd.DataFrame,
 
 
 def main():
+    parser = argparse.ArgumentParser("csv-to-text")
+    parser.add_argument("-m", "--model",
+                        type=str,
+                        help="Name of the model to use",
+                        default="./model")
+    args = parser.parse_args()
+
     df = pd.read_csv("2023_24_grants_and_contributions.csv", header=0, encoding="ISO-8859-1")
-    config = Config(model_name="./model",
+    config = Config(model_name=args.model,
                     text="",
                     features=feature_list_from_file("english_terms_short.txt"))
+
     # responses = df_text_to_csv(df,
     #                            "Description (English)",
     #                            config,
