@@ -1,7 +1,7 @@
 from transformers import pipeline, AutoModelForCausalLM
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import List
+from typing import List, Callable
 import pandas as pd
 import torch
 import argparse
@@ -13,9 +13,19 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 @dataclass
 class Config:
     model_name: str
-    text_file_path: Path
-    features: List[str]
+    text_file_path: Path | None = None
+    text: str | None = None
+    features: List[str] = field(default_factory=list)
     save_model: bool = False
+
+    def __post_init__(self):
+        if self.text_file_path is None and self.text is None:
+            raise ValueError("Either text_file_path or text must be provided")
+        if self.text_file_path is not None and self.text is not None:
+            raise ValueError("Only one of text_file_path or text must be provided")
+        if self.text_file_path is not None:
+            with open(self.text_file_path, "r") as f:
+                self.text = f.read()
 
 
 def construct_prompt(text: str, features: List[str]) -> str:
@@ -26,7 +36,8 @@ def construct_prompt(text: str, features: List[str]) -> str:
            "based on the list of features and the text provided."
 
 
-def text_to_csv(config: Config) -> str:
+def text_to_csv(config: Config,
+                prompt_constructor: Callable[[str, List[str]], str] = construct_prompt) -> str:
     tokenizer = AutoTokenizer.from_pretrained(config.model_name,
                                               padding_side="left")
     model = AutoModelForCausalLM.from_pretrained(config.model_name,
@@ -41,10 +52,7 @@ def text_to_csv(config: Config) -> str:
     if config.save_model:
         instruct_pipeline.save_pretrained("model")
 
-    with open(config.text_file_path, "r") as f:
-        text = f.read()
-
-    responses.append(instruct_pipeline(construct_prompt(text, config.features)))
+    responses.append(instruct_pipeline(prompt_constructor(config.text, config.features)))
     return responses
 
 
@@ -58,8 +66,8 @@ def main():
                         # default="databricks/dolly-v2-3b")
                         default="./model")
     parser.add_argument("-t", "--text-file-path",
-                        default="text.txt",
                         help="Path to the text file from which we want to extract features")
+    parser.add_argument("--text", type=str, help="Text to be used for feature extraction")
     parser.add_argument("-f", "--features",
                         nargs="+",
                         help="Features to be extracted from the test sample")
@@ -72,6 +80,7 @@ def main():
     features = [] if args.features is None else args.features
     text = text_to_csv(Config(args.model_name,
                               Path(args.text_file_path),
+                              args.text,
                               features,
                               args.save_model))
     print(text)
