@@ -2,7 +2,7 @@ results
 .vscode
 __pycache__
 generated.txt
-english_terms.txt
-french_terms.txt
+english_terms*.txt
+french_terms*.txt
 model
 2023_24_grants_and_contributions.csv
